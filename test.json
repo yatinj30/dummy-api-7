@@ -1,0 +1,958 @@
+{
+    "appTitle": "Navratri Ringtones & Aarti",
+    "appSplashLogo": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
+    "mainScreenContent": {
+        "mainListView": [
+            {
+                "listName": "Latest Collection",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Pavli Lay Ne Hu To Pavagadh Gayi Ti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/pavli-lay-ne-hu-to-pavagadh-gayi-ti-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/104127783_300x300.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Tara Vina Shyam",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/tara-vina-shyam-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Tara-Vina-Shyam-Gujarati-2021-20210925162058-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gori sharmaye",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/garba-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/beautiful-couple-playing-dandiya-disco-garba-night-background_1035-24869.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aavta Jata Jara Nazar To",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/aavta-jata-jara-nazar-to-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Aavta-Jata-Jara-Gujarati-2022-20220804125204-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Baje Re Baje Dhol Baje",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/baje-re-baje-dhol-baje-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dholida Dhol Re Vagad",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholida-dhol-re-vagad-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chalo Pela Bamboo Beats",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/chalo-pela-bamboo-beats-khalaiya-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_121574288_xZHoZOFX7irHOF9uzyJk1HbTt2ozFGj3.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dholida Dhol Dhimo Dhimo Vagad Ma",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholida-dhol-dhimo-dhimo-vagad-ma-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Dholida-Dhol-Dhimo-Vagad-Ma-Gujarati-2019-20191108171238-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ek Var Bolu ke",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/ek-var-bolu-ke-navratri-mania-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d7ff61a3c7f2869985649aabe2870256.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ambe Maa Ni ",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ambe+Maa+Ni+%E0%A5%A4+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/images.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Bhor Bhai Din Chad Gaya Mere Ambe",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Bhor+Bhai+Din+Chad+Gaya+Mere+Ambe+!+Bhakti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Bhor-Bhai-Din-Chadh-Gaya-Meri-Ambe-Hindi-2019-20191223075022-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aigiri Nandini",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Aigiri+Nandini+!+Navratri+Special+!+Sneh+Upadhya+!+Navratri.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Maa-Durga-Wallpaper-Navratri-Special.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mara Rani",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Mata+Rani.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/artworks-000431178735-loj8dd-t500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aaye Tere Bhawan",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Aaye+Tere+Bhawan.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d7ff61a3c7f2869985649aabe2870256.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shero wali",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Navratri+Special+!+Mata+!+Bhakti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Sherawali-Maiya-Photo-Image-Durga-Ji.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jay Mataji",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Durga+-+Navratri+-+Sonu+Nigam+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71%2BCkmPEIUL._SL1500___79290.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Navratri Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Navratri+Garba.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/290018cf9919170e0766780b44c4506c.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramleela Garba - Nagada Sang Dhol",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Nagada+-+Garba+(Navratri+Special).mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/wp7417040.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Nagada Sang Dhol",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Garba+-+Nagada+Sang+Dhol+-+Navratri+Special+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shambhu Mudra",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Shambhu+Mudra+!+Navratri.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/09f1ae49d7fbf74afd15b94e589d2b4a.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Hey Gunvanti Satwanti - Man Tera Mandir",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Hey+Gunvanti+Satwanti+-+Man+Tera+Mandir+-+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1599106242946-fd550dac004c.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chandrahasini Bhakti | Mata Rani",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chandrahasini+Bhakti+!+Mata+Rani+!+Navratri+Bhakti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/marble-dust-durga-maa-sculpture-by-yellow-verandah-marble-dust-durga-maa-sculpture-by-yellow-veranda-a1ipyd.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Maa Shailputri",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Shailputri+-+Navratri+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Kum kum na pagala pada",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Kumkum.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Kumkum-Na-Pagla-Padya-Gujarati-2021-20211012103527-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jevan Kar Leta Hai Sringar Kum Kum Se",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Jevan+Kar+Leta+Hai+Sringar+Kum+Kum+Se+-+Kumkum+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/ab67616d0000b273a08475a10afe0c76a5a9c4d0.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jay Adhya Shakti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Jay-adhya-shakti-Ringtones-Download.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Jay-Aadhya-Shakti-Aarti-Gujarati-2020-20201012134520-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Pankhida O Pankhida Ringtone",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Pankhida-O-Pankhida-Ringtone-Download.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60+(1).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dholida Dhol Re Vagad",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Garba Beats - Navratri Special",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Bgm.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Airtel Dandiya",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/airtel-dandiya-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Airtel-Celebrates-Navratri-Festival-With-mGolu-Contest.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Instrumental",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Navratri special ( flute )",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Navratri+special+(+flute+).mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chogada Tara - BGM",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chogada+Tara+-+BGM+(Navratri+Special).mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Garba Beats - Navratri Special",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Beats+-+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-ramleela-movie-garba.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mahishasura Mardini",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Mahishasura+Mardini+!+Navratri+!+God.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/290018cf9919170e0766780b44c4506c.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Aarti - Full Song",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Jay Adhyashakti Aarti - Ambe Maa Aarti ",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jay+Adhyashakti++Aarti++Aarti+With+Lyrics++%E0%AA%85%E0%AA%AC%E0%AA%9C+%E0%AA%AE%E0%AA%A6%E0%AA%B0+%E0%AA%A8+%E0%AA%86%E0%AA%B0%E0%AA%A4++Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/maxresdefault.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jay Adhyashakti Aarti - Ambe Maa Aarti ",
+                        "subTitle": "By Kinjal Dave",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jay+Adhyashakti+Aarti+-+Ambe+Maa+Aarti+-+Kinjal+Dave+-+KD+Digital.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/hqdefault1.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Vishvambhari Stuti - Kinjal Dave",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Vishvambhari+Stuti+-+Kinjal+Dave+-+KD+Digital.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/ab67616d0000b273ac2750bf7bf070b9e33a2a49.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aarti Ambe Tu Hai Jagdambe Kali",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Aarti+Ambe+Tu+Hai+Jagdambe+Kali+With+Lyrics+By+Anuradha+Paudwal+%5BFull+Video+Song%5D+I+Aarti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/ambe_tu_hai_jagdambe_kali_Aarti.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Ambe Gauri Aarti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jai+Ambe+Gauri+Aarti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/Jai-Ambe-Gauri-Aarti-Hindi-2019-20191003124025-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Santoshi Mata",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jai+Santoshi+Mata+Aarti+By+Anuradha+Paudwal+%5BFull+Video+Song%5D+-+Aartiyan.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/jai-santoshi-mata-tripti-shakya_1658990198.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "ॐ जय लक्ष्मी माता",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Laxmi+Mata+Aarti++Alka+Yagnik++Om+Jai+Laxmi+Mata++Lakshmi+Mata+Aarti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/0.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Garba - Full Song",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Dholida - Gangubai",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dholida.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1367_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dhol Nagada",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dhol+Nagada.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1364_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Nagada Sang Dhol Baje",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Nagada+Sang+Dhol+Baje.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1363_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chandaliyo Ugyo Re",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Chandaliyo+Ugyo+Re.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1366_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dakla - Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dakla+2+Garba.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1365_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Pari Hoon Main DJ Remix",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Pari+Hoon+Main+DJ+Remix.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/74_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Non Stop Garba Falguni Pathak",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Non+Stop+Garba.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1368_resize2x_250x250.webp",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Kinjal Dave Garbe Ramvane Nonstop Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Kinjal+Dave+Garbe+Ramvane+Nonstop+Garba+Navratri+Special+Album.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/81xoMpH1R0L._AC_UF894,1000_QL80_.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Navratri Special Bollywood Gujarati Latest Dandiya Mix Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Navratri+Special+Bollywood+Gujarati+Latest+Dandiya+Mix+Garba+2023.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Sharad Poonam Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Sharad+Poonam+Garba+Special+Non+Stop+Garba.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Gujarati Ringtone",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Dholida Dhol Re Vagad",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Pankhida O Pankhida Ringtone",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Pankhida-O-Pankhida-Ringtone-Download.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60+(1).jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Kum kum na pagala pada",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Kumkum.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Kumkum-Na-Pagla-Padya-Gujarati-2021-20211012103527-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Navratri Garba",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Navratri+Garba.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/290018cf9919170e0766780b44c4506c.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ek Var Bolu ke",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/ek-var-bolu-ke-navratri-mania-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d7ff61a3c7f2869985649aabe2870256.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Dholida Dhol Re Vagad",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chalo Pela Bamboo Beats",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/chalo-pela-bamboo-beats-khalaiya-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_121574288_xZHoZOFX7irHOF9uzyJk1HbTt2ozFGj3.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Baje Re Baje Dhol Baje",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/baje-re-baje-dhol-baje-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aavta Jata Jara Nazar To",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/aavta-jata-jara-nazar-to-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Aavta-Jata-Jara-Gujarati-2022-20220804125204-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Tara Vina Shyam",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/tara-vina-shyam-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Tara-Vina-Shyam-Gujarati-2021-20210925162058-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Pavli Lay Ne Hu To Pavagadh Gayi Ti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/pavli-lay-ne-hu-to-pavagadh-gayi-ti-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/104127783_300x300.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Bollywood Ringtone",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Ramleela Garba - Nagada Sang Dhol",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Nagada+-+Garba+(Navratri+Special).mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/wp7417040.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Radha kaise na jale",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Radha+Kaise+Na+Jale+-+Lagaan.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Lagaan-Hindi-2001-20190603122008-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Nagada Sang Dhol",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Garba+-+Nagada+Sang+Dhol+-+Navratri+Special+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Chogada Tara - BGM",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chogada+Tara+-+BGM+(Navratri+Special).mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Garba Beats - Navratri Special",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Beats+-+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-ramleela-movie-garba.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Garba Beats - Navratri Special",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Bgm.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Aarti Ringtone",
+                "isDisplay": true,
+                "itemDisplay": 3,
+                "songs": [
+                    {
+                        "title": "Jay Adhya Shakti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Jay-adhya-shakti-Ringtones-Download.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Jay-Aadhya-Shakti-Aarti-Gujarati-2020-20201012134520-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Maa Shailputri",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Shailputri+-+Navratri+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jay Mataji",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Durga+-+Navratri+-+Sonu+Nigam+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71%2BCkmPEIUL._SL1500___79290.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ambe Maa Ni ",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ambe+Maa+Ni+%E0%A5%A4+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/images.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Maa Ringtone",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Chandrahasini Bhakti | Mata Rani",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chandrahasini+Bhakti+!+Mata+Rani+!+Navratri+Bhakti.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/marble-dust-durga-maa-sculpture-by-yellow-verandah-marble-dust-durga-maa-sculpture-by-yellow-veranda-a1ipyd.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Hey Gunvanti Satwanti - Man Tera Mandir",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Hey+Gunvanti+Satwanti+-+Man+Tera+Mandir+-+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1599106242946-fd550dac004c.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Maa Shailputri",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Shailputri+-+Navratri+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jay Mataji",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Durga+-+Navratri+-+Sonu+Nigam+!+Hindi.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71%2BCkmPEIUL._SL1500___79290.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ambe Maa Ni ",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ambe+Maa+Ni+%E0%A5%A4+Navratri+Special.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/images.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            },
+            {
+                "listName": "Traditional Garba Ringtone",
+                "isDisplay": true,
+                "itemDisplay": 4,
+                "songs": [
+                    {
+                        "title": "Chalo Pela Bamboo Beats",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/chalo-pela-bamboo-beats-khalaiya-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_121574288_xZHoZOFX7irHOF9uzyJk1HbTt2ozFGj3.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Baje Re Baje Dhol Baje",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/baje-re-baje-dhol-baje-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aavta Jata Jara Nazar To",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/aavta-jata-jara-nazar-to-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Aavta-Jata-Jara-Gujarati-2022-20220804125204-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Tara Vina Shyam",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/tara-vina-shyam-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Tara-Vina-Shyam-Gujarati-2021-20210925162058-500x500.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gori sharmaye",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/garba-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/beautiful-couple-playing-dandiya-disco-garba-night-background_1035-24869.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Pavli Lay Ne Hu To Pavagadh Gayi Ti",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/pavli-lay-ne-hu-to-pavagadh-gayi-ti-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/104127783_300x300.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    "wallpapers": [
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/09f1ae49d7fbf74afd15b94e589d2b4a.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/104127783_300x300.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60+(1).jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/290018cf9919170e0766780b44c4506c.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/2907fc2f6c9fd7f7976895d4c767eccf.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_121574288_xZHoZOFX7irHOF9uzyJk1HbTt2ozFGj3.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_286062753_FKcB2dm1YBtapP9WjyflxSGoEitpoJ5u.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_589606852_pCu2t0yDRwFdfBdZYhJKhkWwpbyy0ePo.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/42e69a5aa08c3b3929ba30a050a761ff.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71%2BCkmPEIUL._SL1500___79290.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71KTEzWGOqL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/81ScJiM-GpL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/81xoMpH1R0L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/8b672250e914f301e9b3814111a4ef06+(1).jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Aavta-Jata-Jara-Gujarati-2022-20220804125204-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Airtel-Celebrates-Navratri-Festival-With-mGolu-Contest.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Bhor-Bhai-Din-Chadh-Gaya-Meri-Ambe-Hindi-2019-20191223075022-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Dholida-Dhol-Dhimo-Vagad-Ma-Gujarati-2019-20191108171238-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Fkn3GwDVsAEjz8O.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-durga-maa-anger-beauty-god-goddess-lion-navratri-pet-war.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-maa-durga-ki-durga-pooja-navratri-durga-puja-maa-durga-ki-navratri-durga-god-lord-thumbnail.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-navratri-beautiful-durga-maa-navratri.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-navratri-garba-cartoon.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-ramleela-movie-garba.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Happy-Dussehra-Pic-Download-Free.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Happy-Dussehra-Wallpaper-2022-HD-Download.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Jay-Aadhya-Shakti-Aarti-Gujarati-2020-20201012134520-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Kumkum-Na-Pagla-Padya-Gujarati-2021-20211012103527-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Maa-Durga-Wallpaper-Navratri-Special.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Sherawali-Maiya-Photo-Image-Durga-Ji.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Tara-Vina-Shyam-Gujarati-2021-20210925162058-500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/ab67616d0000b273a08475a10afe0c76a5a9c4d0.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/artworks-000431178735-loj8dd-t500x500.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/beautiful-celebrate-navratri-festival-with-dancing-garba-men-woman-design_1035-20924.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/beautiful-couple-playing-dandiya-disco-garba-night-background_1035-24869.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d50bf55ce1ede562645445fb18f460b0.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d7ff61a3c7f2869985649aabe2870256.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/depositphotos_86200552-stock-illustration-lord-rama-laxmana-hanuman-and.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-dance-steps-garba-folk-dance-of-gujarat-folk-dance.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-in-dandiya-garba-and-navratri-in-gujarat-navratri-garba-thumbnail.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-jai-mata-di-maa-durga-beautiful-navratri-durga-ashtami-puja-navratri-mata.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/download.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/durga-maa-4775034_1280.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/e0b20d54cbbf6a2d182a332ae944bdbc.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/festivals-holidays-dussehra-wallpaper-preview.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/images.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/marble-durga-maa-statue-1525839476-3835066.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/marble-durga-mata-statue-1646974382-6238942.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/marble-dust-durga-maa-sculpture-by-yellow-verandah-marble-dust-durga-maa-sculpture-by-yellow-veranda-a1ipyd.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/navratri-festival-garba-dandiya-dance-calgary-alberta-canada-hindu-festival-dedicated-to-worship-goddess-127995807.webp"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1599106242946-fd550dac004c.jpeg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1602772576878-a934c7c6b273.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1603554593710-89285666b691.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1606293926980-ff0313a65624.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1606293927153-b069a6d5d44f.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1606293927185-20fad5f0a93e.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1610797169128-5acf0b050aad.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/photo-1624357727657-d941dfef2e00.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/screen-0.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/wp7417040.jpg"
+        },
+        {
+            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/zu2rq_512.webp"
+        }
+    ],
+    "settingsPage": {
+        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
+        "privacyPolicy": "https://www.freeprivacypolicy.com/live/ec0e4061-8758-44ef-b232-32dc10cfddc7",
+        "termsCondition": "https://www.freeprivacypolicy.com/live/426cba36-0444-466a-b561-607846863105",
+        "shareTheApp": "Hey! I found a very good application to download Navratri Ringtones & Aarti. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.navratriringtonesnew",
+        "rateTheApp": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.navratriringtonesnew",
+        "moreApp": "https://play.google.com/store/apps/developer?id=Unique+Tech+Media"
+    },
+    "adsData": {
+        "showAds": false,
+        "onBoardingScreen": {
+            "bannerAd": true
+        },
+        "dashBoardScreen": {
+            "bannerAd": true
+        },
+        "wallpaperScreen": {
+            "nativeAd": true
+        },
+        "setRingtoneScreen": {
+            "nativeAd": true
+        }
+    }
+}
