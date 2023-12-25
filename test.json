@@ -14,7 +14,12 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/pavli-lay-ne-hu-to-pavagadh-gayi-ti-navratri-song-ringtone.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/104127783_300x300.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                        ]
                     },
                     {
                         "title": "Tara Vina Shyam",
@@ -22,7 +27,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/tara-vina-shyam-navratri-song-ringtone.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Tara-Vina-Shyam-Gujarati-2021-20210925162058-500x500.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Gori sharmaye",
@@ -158,7 +172,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Garba+-+Nagada+Sang+Dhol+-+Navratri+Special+!+Hindi.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Shambhu Mudra",
@@ -269,7 +292,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chogada+Tara+-+BGM+(Navratri+Special).mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Garba Beats - Navratri Special",
@@ -300,7 +332,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jay+Adhyashakti++Aarti++Aarti+With+Lyrics++%E0%AA%85%E0%AA%AC%E0%AA%9C+%E0%AA%AE%E0%AA%A6%E0%AA%B0+%E0%AA%A8+%E0%AA%86%E0%AA%B0%E0%AA%A4++Navratri+Special.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/maxresdefault.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Jay Adhyashakti Aarti - Ambe Maa Aarti ",
@@ -371,7 +412,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dhol+Nagada.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1364_resize2x_250x250.webp",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Nagada Sang Dhol Baje",
@@ -458,7 +508,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Pankhida-O-Pankhida-Ringtone-Download.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/1200x1200bf-60+(1).jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Kum kum na pagala pada",
@@ -545,7 +604,16 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Nagada+-+Garba+(Navratri+Special).mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/wp7417040.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
+                            },
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Radha kaise na jale",
@@ -553,7 +621,12 @@
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Radha+Kaise+Na+Jale+-+Lagaan.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Lagaan-Hindi-2001-20190603122008-500x500.jpg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Nagada Sang Dhol",
