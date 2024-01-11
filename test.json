@@ -63,26 +63,10 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Dholida Dhol Re Vagad",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholida-dhol-re-vagad-navratri-song-ringtone.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Chalo Pela Bamboo Beats",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/chalo-pela-bamboo-beats-khalaiya-navratri-song-ringtone.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/360_F_121574288_xZHoZOFX7irHOF9uzyJk1HbTt2ozFGj3.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Dholida Dhol Dhimo Dhimo Vagad Ma",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholida-dhol-dhimo-dhimo-vagad-ma-navratri-song-ringtone.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Dholida-Dhol-Dhimo-Vagad-Ma-Gujarati-2019-20191108171238-500x500.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -248,14 +232,6 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Dholida Dhol Re Vagad",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Garba Beats - Navratri Special",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Bgm.mp3",
@@ -399,14 +375,6 @@
                 "itemDisplay": 4,
                 "songs": [
                     {
-                        "title": "Dholida - Gangubai",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dholida.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1367_resize2x_250x250.webp",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Dhol Nagada",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dhol+Nagada.mp3",
@@ -495,14 +463,6 @@
                 "itemDisplay": 4,
                 "songs": [
                     {
-                        "title": "Dholida Dhol Re Vagad",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Pankhida O Pankhida Ringtone",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Pankhida-O-Pankhida-Ringtone-Download.mp3",
@@ -540,14 +500,6 @@
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/ek-var-bolu-ke-navratri-mania-ringtone.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/d7ff61a3c7f2869985649aabe2870256.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Dholida Dhol Re Vagad",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/dholidadho-72xyl5s4-15824.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/hqdefault.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -859,9 +811,6 @@
         },
         {
             "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Bhor-Bhai-Din-Chadh-Gaya-Meri-Ambe-Hindi-2019-20191223075022-500x500.jpg"
-        },
-        {
-            "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Dholida-Dhol-Dhimo-Vagad-Ma-Gujarati-2019-20191108171238-500x500.jpg"
         },
         {
             "link": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Fkn3GwDVsAEjz8O.jpg"
